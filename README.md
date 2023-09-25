@@ -9,3 +9,5 @@ The repository includes the following files.
 * ```BQTF-function.R```: Implementation of Gibbs sampling and variational Bayes approximation with/without calibration for Bayesian quantile trend filtering.
 
 * ```BQTF-example.R```: One-shot example of fitting Bayesian quantile trend filtering under horseshoe prior.
+
+* ```true-function.R```: The true data-generating functions such as piecewise constant and varying smoothness.
