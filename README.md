@@ -1,5 +1,3 @@
-# BQTF-VB
-
 This repository provides R code implementing calibrated variational Bayes approximation for Bayesian quantile trend filtering, as proposed by the following paper.
 
 Onizuka, T., Hashimoto. S. and Sugasawa, S. (2022), Fast and Locally Adaptive Bayesian Quantile Smoothing using Calibrated Variational Approximations. *arXiv:2211.04666*.
